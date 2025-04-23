@@ -1,0 +1,1 @@
+singularity shell -B /cvmfs:/cvmfs /cvmfs/unpacked.cern.ch/registry.hub.docker.com/cmssw/cmssw:slc7
